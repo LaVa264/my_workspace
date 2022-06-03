@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSum_library.a  CMakeFiles/Sum_library.dir/Libraries/sum.cpp.o
+/usr/bin/ranlib libSum_library.a

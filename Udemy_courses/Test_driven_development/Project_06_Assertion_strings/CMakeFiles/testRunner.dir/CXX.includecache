@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_06_Assertion_strings/LibraryCode.hpp
+cctype
+-
+string.h
+-
+
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_06_Assertion_strings/testRunner.cpp
+iostream
+-
+LibraryCode.hpp
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_06_Assertion_strings/LibraryCode.hpp
+gtest/gtest.h
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_06_Assertion_strings/gtest/gtest.h
+

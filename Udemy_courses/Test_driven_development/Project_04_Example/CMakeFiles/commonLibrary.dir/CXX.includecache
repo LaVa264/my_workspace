@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_04_Example/LibraryCode.cpp
+LibraryCode.hpp
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_04_Example/LibraryCode.hpp
+
+/home/larva/Documents/My_Workspace/my_workspace/Udemy_courses/Test_driven_development/Project_04_Example/LibraryCode.hpp
+algorithm
+-
+vector
+-
+
