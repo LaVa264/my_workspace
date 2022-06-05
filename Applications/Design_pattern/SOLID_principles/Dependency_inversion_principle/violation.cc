@@ -31,7 +31,6 @@ public:
   auto &get_relations() const { return m_relations; }
 };
 
-
 class research
 {
 public:
@@ -50,7 +49,7 @@ public:
   }
 };
 
-
 int main()
 {
+  
 }
